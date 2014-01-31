@@ -1,0 +1,21 @@
+Concept :
+Use an off-the shelf universal joint, and add encodrs or potentiometes to the joints.
+
+I didn't find a universal joint that I consdered suitable for modification.
+
+* There are two sets of bearings.  
+* If tether is suppoted by one of the clevises, both are loaded all the time.
+
+A typical universal joint more or less has a construction of:
+clevis > cross < clevis
+
+The signs indicate which side of the joint is wider.
+
+If we chose a "stationary" side, there are thus four possible vaiations on this mechanism to be considered:
+
+SC = "Stationay Clevis"
+MC = "Moving Clevis"
+
+1. SC > cross < MC (
+
+

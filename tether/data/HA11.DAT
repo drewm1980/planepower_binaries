@@ -1,0 +1,38 @@
+ Instron DAT-file 
+ ================ 
+ 
+Test data:
+----------
+Filename : 	HA11.DAT
+Date : 	 5JUL12  
+User : 	kvds                          
+Sample ID : 	HA1     
+Machine : 	4505
+Test Type : 	Tensile
+Method number : 	0   	Tensile               kvds            6/10/2010             
+Sample Temp : 	20	°C
+Humidity : 	50	%
+Speed : 	100	mm/min
+Samplerate : 	10	pts/s
+Specimen gauge length : 	200	mm
+Grip distance : 	200	mm
+ 
+Specimen data:
+--------------
+Specimen number : 	1
+Specimen geometry : 	cylindrical
+Surface : 	.785	mm²
+Diameter : 	1	mm
+Extensometer removed at point :  0 
+Max Load : 	.0028342	kN
+Displ. at Max Load : 	0	mm
+Comment : 	
+ 
+Test results :
+--------------
+Point nr.	Time [s]	Displ [mm]	Load [kN]
+
+0	0	0.0	0.001581
+1	.1	0.0	0.002503
+2	.2	0.0	0.002834
+3	.3	0.0	0.000907

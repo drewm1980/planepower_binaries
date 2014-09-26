@@ -1,0 +1,17 @@
+Report Name: report.txt
+Report Time: 21/04/2012 15:58:41
+Report Options:
+    Part Names
+
+Select Set #1:
+    lagerhouder-boven.par:1
+
+Select Set #2:
+    staaf-lang.par:3
+
+Interferences:
+    1 of 1
+    lagerhouder-boven.par:1
+    staaf-lang.par:3
+
+    1 Interferences Detected

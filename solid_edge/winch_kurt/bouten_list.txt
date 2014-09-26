@@ -1,0 +1,30 @@
+Verzonken bouten:
+4x M6 verzonken (totale lengte max 19)
+8x M8 verzonken (totale lengte minimum 70)
+4x M10 verzonken (totale lengte min 45, max 61)
+8x M16 verzonken (totale lengte min 40)
+
+Gewone bouten:
+1x M4 (max 22)
+3x M8x (min 25)
+4x M8x (max 30)
+4x M8x (max 40)
+6x M8x (min 65)
+1x M10x (max 40)
+1x M12x (max 30)
+4x M12x (max 35)
+4x M12x (max 40)
+4x M12x (min 55, max 65)
+8x M16x30
+
+14x M8 moer
+4x M10 moer
+2x M30 moer
+
+Sluitringen:
+1x M4
+30xM8
+8x M10
+2x M30
+
+rode loctite

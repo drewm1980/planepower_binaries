@@ -1,0 +1,32 @@
+Tekeningen maken van:
+Voor winch:
+
+Extern:
+
+connection_plate
+drumplate
+swivle_plate
+cart_plate
+winch_houder_plaat
+winch_houder
+
+motorhouder (voor carousel)
+
+Rudi:
+x	drum_shaft laten bewerken!!!
+x	drive_pulley_holder
+x	drum_pulley_holder
+x	dop_drive_aanspanner
+x	winch_drive_aanspanner
+x	spacer
+
+Nog te maken stuk:
+Holder voor tenstion_pulley van linear guide met dop
+
+Voor carousel-motor, door Rudi:
+
+x	carousel_drive_aanspanner
+x	dop_drive_aanspanner
+x	seal_houder
+x	dop_drive_motor
+Pulley laten bewerken: 8 gaten van 6,2 in kraag

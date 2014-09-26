@@ -1,0 +1,42 @@
+Voor carouselmotor: 
+4x M10 verzonken (totale lengte min 45, max 61)
+4x M10 moer
+1x M10x (max 40)
+8x M8 verzonken (totale lengte minimum 70)
+8x M8 moer
+
+Voor sealhouder:
+6x M8x (min 65)
+6x M8 moer
+
+Voor verbindingsplaat:
+4x M8x (lengte niet bekent: nagaan wat diepte is van gearbox-flens-gaten)
+1x M12x (max 30)
+4x M12x (min 55, max 65)
+
+Voor winchmotorplaat:
+4x M8x (lengte nagaan: 10 van plaat+diepte)
+
+3x M8x (min 25)
+
+voor linear guide:
+1x M4 (max 22)
+
+8x M16 verzonken (totale lengte min 40)
+4x M6 verzonken (totale lengte max 19)
+
+2x moer M30
+
+
+4x M12x (max 40)
+4x M12x (max 35)
+
+8x M16x30
+Sluitringen:
+8x M10
+30xM8
+1x M4
+2x M30
+
+
+rode loctite

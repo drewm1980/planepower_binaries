@@ -1,0 +1,14 @@
+swivle_bearing:
+2x http://www.skf.com/group/products/bearings-units-housings/roller-bearings/tapered-roller-bearings/single-row/index.html?prodid=1310051306&imperial=false
+
+
+
+Kleine bearing:
+2x http://www.skf.com/group/products/bearings-units-housings/ball-bearings/deep-groove-ball-bearings/single-row-stainless-steel/index.html?prodid=1010470300&imperial=false
+(met rubberen seal: http://www.skf.com/group/products/bearings-units-housings/ball-bearings/deep-groove-ball-bearings/single-row-stainless-steel/index.html?prodid=1010450300&imperial=false )
+
+elevation-swivle-bearing:
+http://www.skf.com/group/products/bearings-units-housings/ball-bearings/deep-groove-ball-bearings/single-row-stainless-steel/index.html?prodid=1010470006&imperial=false
+(met rubberen seal: http://www.skf.com/group/products/bearings-units-housings/ball-bearings/deep-groove-ball-bearings/single-row-stainless-steel/index.html?prodid=1010450006&imperial=false )
+
+locknut: http://www.skf.com/group/products/bearings-units-housings/bearing-accessories/lock-nuts/kmt-precision-lock-nuts-with-locking-pins/index.html?prodid=267603004&imperial=false

@@ -1,0 +1,53 @@
+***************
+HepcoMotion
+SDM20-80 L950 1605 (linear guide, lengte van 950mm)
+***************
+
+***************
+Maedler
+
+1x 16621200 (21 AT5/12-2), uitgerust met lagers
+
+1x 16623000 (21 AT5/30-2), uitgedraaid tot een gat van diameter 10 H7, met een naaf van 3 H8 breed en 2 mm hoog
+1x 16624200 (21 AT5/42-2), uitgedraaid tot een gat van diameter 10 H7, met een naaf van 3 H8 breed en 2 mm hoog
+
+1x 16621800 (21 AT5/18-2), uitgedraaid tot een gat van diameter 20 H9
+1x 16622000 (21 AT5/20-2), uitgedraaid tot een gat van diameter 20 H9, met de kant weggedraaid tot op gelijke hoogte met de kragen
+1x 16622400 (21 AT5/24-2), uitgedraaid tot een gat van diameter 20 H9, met de kant weggedraaid tot op gelijke hoogte met de kragen
+1x 16622700 (21 AT5/27-2), uitgedraaid tot een gat van diameter 20 H9, met de kant weggedraaid tot op gelijke hoogte met de kragen
+1x 16623000 (21 AT5/30-2), uitgedraaid tot een gat van diameter 20 H9, met de kant weggedraaid tot op gelijke hoogte met de kragen
+
+1x 16661300 (AT10 Timing Belts, Width=10mm, lengte van 600 mm)
+1x 16884700 (AT10 Timing Belts, Width=50mm, lengte van 1080 mm)
+
+
+1x 61599410 (Clamping Sets BAR, stainless, borehole 10mm)
+4x 62034000 (Cap Bearings DIN 505 L, With Red Brass Bush)
+
+1x 64799406 (M8 1m Hardened stainless steel shaft, Chromoly 54 HRC)
+4x 62399108 (M8 Single Split Stainless shaft collar)
+6x 62331600 (M8 Sintered Bronze Bushing)
+***************
+
+SKF
+FYC 40 TF (Y-bearing flanged units, cast housing, round flange, grub screw locking)
+PF 20 TR (Y-bearing flanged units, pressed steel housing, grub screw locking)
+
+
+***************
+PEC:
+50x 0.0.439.75 (T-slot Nut 6 st M6, stainless)
+20x 0.0.388.49 (T-slot Nut 8 st M8, stainless )
+
+
+1x 0.0.451.15 (Profile 6 60x60, 6 meter)
+1x 0.0.419.03, length 3 meter (Profile 6 60x60, cut-off)
+
+1x 0.0.457.52, length 0.5 meter (Profile 8 80x80, cut-off)
+
+40x 0.0.419.68 (Angle Bracket set 6 60x60)
+12x 0.0.411.32 (Angle Bracket set 8 80x80)
+***************
+
+
+Bouten!!

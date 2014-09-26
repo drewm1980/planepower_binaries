@@ -1,0 +1,143 @@
+System Name        : Windows_NT
+Machine Name       : PMA-10-026A
+User Name          : u0072542
+Source System      : STEP
+Destination System : GENERIC
+Start Time         : Tue Jul 23 14:58:12 2013
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : PropagateColDownwards : true
+Message : TranslateAttributes : true
+Message : TranslateSheetBodies : true
+Message : TranslateSolidAsSolid : true
+Message : Step.Brep.TranslateSolidAsClassIV : false
+Message : Step.Brep.TranslateSolidAsClassIISurface : false
+Message : Step.Brep.TranslateSolidAsClassIIWires : false
+Message : Step.Brep.WriteSolidClass3 : false
+Message : Step.Brep.ConvTrimToClassIVFaces : true
+Message : Step.Brep.ConLOG: Conversion: Begin
+LOG: Conversion: End
+LOG: Conversion: Begin
+LOG: Conversion: End
+LOG: Conversion: Begin
+LOG: Conversion: End
+LOG: Conversion: Begin
+LOG: Conversion: End
+LOG: Conversion: Begin
+LOG: Conversion: End
+Info: 
+Info: Translation succeeded
+Info: Total number of faces: 141
+Info: Total number of edges: 359
+Info: Total number of vertices: 228
+Info: Number of bodies found in the Step file: 5
+Info: =================================================
+Info: Number of bad entities removed: 0
+Info: Number of bodies saved in file: 5
+Info: =================================================
+Info: Simplify Geometry Option
+Info: 
+Info: Simplify Geometry option selected
+Info: Simplify Geometry succeeded
+Info: =================================================
+Info: 
+Info:     ========================
+Info:           Stop_Modeler
+ProductIdAttributes : true
+Message : SetStringentCheckOption : true
+Message : RollbackSewOnError : true
+Message : Step.Brep.InterpretAngleAsDegree : true
+Message : Step.Brep.OverrideFaceColorWithBodyColor : false
+Message : FixFaceFaceInconsistency : true
+Message : TranslateFreePoints : true
+Message : TranslateLayersAndFilters : false
+Message : Step.AuthorName :   
+Message : Step.OrganizationName :   
+Message : Step.Authorization :   
+Message : Step.ProgramName :   
+Message : Step.DateTimeStamp :   
+Message : Step.ObjectId :   
+Message : Step.FileDescription : STEP AP203
+Message : Step.ImplementationLevel : 1
+Message : Step.SchemaName : CONFIG_CONTROL_DESIGN
+Message : Step.PreProcessorVersion : XStep 1.0
+Message : Representation : BRep+NewAssembly
+Message : ===========================
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+----------------------------File Header Information-----------------------------
+
+FILE_DESCRIPTION DATA
+File Description     : 'no description'
+Implementation Level : unknown implementation level
+
+FILE_NAME DATA
+File Name            : cadfile.txt
+Date Time Stamp      :   
+Author               : 'item Industrietechnik GmbH'
+Organization         : 'CADClick - KiM GmbH - www.kimweb.de'
+PreProcessor Version : unknown preprocess
+Originating System   : ACIS
+Authorization        : unknown authorization
+
+FILE_SCHEMA DATA
+File Schema Name     : 'automotive_design'
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start NewAssembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End NewAssembly
+Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-------------------------------Conversion Summary-------------------------------
+No. of Assemblies                         :    0
+No. of Solid Bodies                       :    5
+No. of Trim Bodies                        :    0
+No. of Wire Bodies                        :    0
+No. of Point Bodies                       :    0
+No. of Mixed Bodies		 : 0
+No. of Point Bodies        : 0
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Finish Time : Tue Jul 23 14:58:13 2013
+
+Translation Result : Success
+--------------------------------------------------------------------------------
+Parasolid -> SE
+============================================================
+Filename: D:\item_0048628_Angle_Bracket_V_8_40_Zn.x_t
+Parasolid File Version: 18.1.207
+Begin Assembly 0
+Total Parts :  5
+Assemblies: 0
+Solid Bodies: 5
+Sheet Bodies:  0
+============================================================
+Processing Solid Body 0 of 5
+Created SE Part File D:\item_0048628_Angle_Bracket_V_8_40_Zn_1.par
+Placing item_0048628_Angle_Bracket_V_8_40_Zn_1.par:1
+============================================================
+Processing Solid Body 0 of 5
+Created SE Part File D:\item_0048628_Angle_Bracket_V_8_40_Zn_3.par
+Placing item_0048628_Angle_Bracket_V_8_40_Zn_3.par:1
+============================================================
+Processing Solid Body 0 of 5
+Created SE Part File D:\item_0048628_Angle_Bracket_V_8_40_Zn_4.par
+Placing item_0048628_Angle_Bracket_V_8_40_Zn_4.par:1
+============================================================
+Processing Solid Body 0 of 5
+Created SE Part File D:\item_0048628_Angle_Bracket_V_8_40_Zn_5.par
+Placing item_0048628_Angle_Bracket_V_8_40_Zn_5.par:1
+============================================================
+Processing Solid Body 0 of 5
+Created SE Part File D:\item_0048628_Angle_Bracket_V_8_40_Zn_2.par
+Placing item_0048628_Angle_Bracket_V_8_40_Zn_2.par:1
+============================================================

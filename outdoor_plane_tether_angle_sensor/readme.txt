@@ -1,48 +1,39 @@
-from:andrew
+from:Andrew
 
-This is a taxonomy of 2R joints that share an axis, i.e. "wrist joints"
+Update:  I did some CAD design for these ideas on a windows machine that died.  If at some point you guys want to build a sensor between a plane and the tether contact me and I will try to recover my designs.  
 
-We generalize from the typical universal joint. All of these are the same from the stanpoint of constraints of the moving end, but may be wildly different mechanically.
+Cheers,
+Andrew
 
-In a typical universal joint you have three parts:
+Here are some notes on a sensor to measure the angle between the tether and the arm:
 
-One side, the "clevis", connects to a center part, the "cross", which connects to a second "clevis".
+The motivation of such a sensor is to reduce the number of degrees of freedom that need to be estimated down by two, so that, with the other angle encoders, only "yaw" needs to be estimated, assuming a straight tether.
 
-In an automobile tranmission, the whole mechanism rotates, and is used for transmitting torque in a shaft that needs to make up to a roughly 45 degree turn.  
+Design ideas:
 
-Introduce some terminology:
+Concept 1: My first idea was pretty far out of the box; I wanted to put an array of about four magnetometers on the tether and a magnet on the tether, do some math on the measurements of the magnetic field, and get an estimate of the tether angle.  I got as far as making some small pcb's and buying magnetometer chips.  This was idea was practically a research idea, and things in Leuven got... practical pretty quickly.
+
+Concepts 3:
+Use an off-the shelf universal joint, and add encodrs or potentiometes to the joints.
+
+I didn't find a universal joint that I consdered suitable for modification.
+
+* There are two sets of bearings.  
+* If tether is suppoted by one of the clevises, both are loaded all the time.
+
+A typical universal joint more or less has a construction of:
+clevis > cross < clevis
+
+The signs indicate which side of the joint is wider.
+
+If we chose a "stationary" side, there are thus four possible vaiations on this mechanism to be considered:
 
 SC = "Stationay Clevis"
 MC = "Moving Clevis"
-C = "Cross
 
-A > B: In the joint, A > B.  We assume each joint has a par of bearings that are placed symmetrically around the axis.
+1. SC > cross < MC (
 
-There are thus four possibilities:
-
-1. SC > C < MC  
-
-Typical universal joint.  Also what our outdoor tether->armsensor uses, although the joint on the SC (the arm) is not symmetric, it is single-sided / cantilevered.
-
-2. SC < C > MC  
-
-This could look like a spherical shell with two holes in it (or a ring), with the two clevises interfacing with the inside.  This configuration would be convenient for the encoders, since the magnets would be inserted in the cross, and the PCBs would be supported on the shell.
-
-3. SC > C > MC
-
-This is essentially what joysticks use. However, they actually use TWO of these mechanisms:
-
-*The part that looks like a cross is actually the MC in our terminology, and is shared by both universal joints.  
-*The bridge shaped parts are actually the two C's.
-*Since both joints end in SC, this design has the special property that both sensors are stationary.
-*Also, the ordering is good for the encoders.
-*Twice as many bearings
-*5 parts instead of 3
-
-4. SC < C < MC
-
-This is like a joystick used backwards.  Both sensors move
-
-
+Concept 4:
+Off-the shelf joystick modules use an interesting mechanism...
 
 

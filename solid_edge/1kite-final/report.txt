@@ -1,0 +1,17 @@
+Report Name: report.txt
+Report Time: 9/01/2013 14:31:41
+Report Options:
+    Part Names
+
+Select Set #1:
+    support.par:5
+
+Select Set #2:
+    staaf-onder.par:1
+
+Interferences:
+    1 of 1
+    support.par:5
+    staaf-onder.par:1
+
+    1 Interferences Detected
